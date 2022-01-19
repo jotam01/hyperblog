@@ -48,3 +48,11 @@ body
     background: white;
     padding: 1rem;
 }
+
+.footer
+{
+    padding: 0.5rem;
+    background: rgb(230, 220, 240);
+    color: purple;
+    text-align: center;
+}
